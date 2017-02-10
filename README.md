@@ -13,3 +13,12 @@ How to implement classes in python.
 ## 4:
 How to make a function.
 ----
+## 5:
+Using tkinter module.
+----
+## 6:
+Using turtle module.
+----
+##7:
+Files in python
+----
